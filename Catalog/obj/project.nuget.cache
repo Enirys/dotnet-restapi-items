@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeByajof3OeKIRm1zEtlVZCBp+QUJUTS+D9un7+9ksO3OgX/vOwlJ6opACwem150V3v/A3rcf3OjbdFy3QHt/A==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\dotnetprojects\\Catalog\\Catalog\\Catalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GAMING\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
