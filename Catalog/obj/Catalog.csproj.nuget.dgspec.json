@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\dotnetprojects\\Catalog\\Catalog\\Catalog.csproj": {}
+    "E:\\Projects\\dotnetprojects\\dotnet-restapi-items\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\dotnetprojects\\Catalog\\Catalog\\Catalog.csproj": {
+    "E:\\Projects\\dotnetprojects\\dotnet-restapi-items\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\dotnetprojects\\Catalog\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "E:\\Projects\\dotnetprojects\\dotnet-restapi-items\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "E:\\Projects\\dotnetprojects\\Catalog\\Catalog\\Catalog.csproj",
+        "projectPath": "E:\\Projects\\dotnetprojects\\dotnet-restapi-items\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\GAMING\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\dotnetprojects\\Catalog\\Catalog\\obj\\",
+        "outputPath": "E:\\Projects\\dotnetprojects\\dotnet-restapi-items\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
